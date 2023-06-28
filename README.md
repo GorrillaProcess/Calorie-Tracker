@@ -4,7 +4,5 @@
 ## Future development
 - Frontend will be integrated on :
 
-[![NextJS](https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png)](https://nextjs.org/) 
-[![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg)](https://www.typescriptlang.org/)
-
-
+[![NextJS](https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png)](https://nextjs.org/) <br/>
+[![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)](https://www.typescriptlang.org/)
